@@ -1,4 +1,6 @@
 # Electrician-In-This-Area-Extractor
+
+![GitHub stars](https://img.shields.io/github/stars/6t9xstar/Electrician-In-This-Area-Extractor?style=social)
 Electrician In This Area Extractor Contractor Email Extraction.
 
 
